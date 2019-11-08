@@ -4,7 +4,7 @@
     detail: University of Notre Dame
     i18n: und
   desc:
-    detail: |
+    detail: >
     * Proposed and validated novel machine learning methods on GPS trajectory corpus for better performance in the pedestrian protection system, trip planning, and traffic risk assessment.
     * Engineered state-of-the-art IoT data offloading schemes on Raspberry Pi and Android platforms based on Edge Computing frameworks.
     * Initiated and led the 3-year-long project "Hybrid Communications based Real-time Notification for Vulnerable Road Participants" (funded by Ford Research).
