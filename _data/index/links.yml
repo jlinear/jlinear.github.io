@@ -2,11 +2,11 @@
 - last_name: M-Lab @ ND
   first_name:
   desc: Mobile Computing Lab at University of Notre Dame
-  website: https://www.m-lab.cse.nd.edu
+  website: https://m-lab.cse.nd.edu
   # email: ceo@google.com
 
-- last_name: Poellabauer
-  first_name: Christian
+- last_name: Dr. Christian Poellabauer
+  first_name:
   desc: My advisor
   website: http://www3.nd.edu/~cpoellab
   email: cpoellab@nd.edu
