@@ -5,12 +5,14 @@
     i18n: und
   desc:
     detail: >
-    * Proposed and validated novel machine learning methods on GPS trajectory corpus for better performance in the pedestrian protection system, trip planning, and traffic risk assessment.
-    * Engineered state-of-the-art IoT data offloading schemes on Raspberry Pi and Android platforms based on Edge Computing frameworks.
-    * Initiated and led the 3-year-long project "Hybrid Communications based Real-time Notification for Vulnerable Road Participants" (funded by Ford Research).
-    * Performed comprehensive data collection, experiments, and data analysis on the movement and connectivity of pedestrian and vehicles.
-    * Designed and implemented the communication network layer of a BLE-based Vehicle-to-Vehicle (V2V) Publish/Subscribe system.
-    * Supervised and assisted more than 10 undergraduate students with research projects.
+      * Proposed and validated novel machine learning methods on GPS trajectory corpus for better performance in the pedestrian protection system, trip planning, and traffic risk assessment.
+      * Engineered state-of-the-art IoT data offloading schemes on Raspberry Pi and Android platforms based on Edge Computing frameworks.
+      * Initiated and led the 3-year-long project "Hybrid Communications based Real-time Notification for Vulnerable Road Participants" (funded by Ford Research).
+      * Performed comprehensive data collection, experiments, and data analysis on the movement and connectivity of pedestrian and vehicles.
+      * Designed and implemented the communication network layer of a BLE-based Vehicle-to-Vehicle (V2V) Publish/Subscribe system.
+      * Supervised and assisted more than 10 undergraduate students with research projects.
+
+
     i18n: und_desc
   date:
     detail: Aug. 2015 - present
