@@ -4,67 +4,54 @@
     detail: University of Notre Dame
     i18n: und
   desc:
-    detail: |-
-      * Proposed and validated novel machine learning methods on GPS trajectory corpus for better performance in the pedestrian protection system, trip planning, and traffic risk assessment.
-
-      * Engineered state-of-the-art IoT data offloading schemes on Raspberry Pi and Android platforms based on Edge Computing frameworks.
-
-      * Initiated and led the 3-year-long project "Hybrid Communications based Real-time Notification for Vulnerable Road Participants" (funded by Ford Research).
-
-      * Performed comprehensive data collection, experiments, and data analysis on the movement and connectivity of pedestrian and vehicles.
-
-      * Designed and implemented the communication network layer of a BLE-based Vehicle-to-Vehicle (V2V) Publish/Subscribe system.
-
-      * Supervised and assisted more than 10 undergraduate students with research projects.
-
-
+    detail: Research work in Machine Learning, Edge Computing, and Networks.
     i18n: und_desc
   date:
     detail: Aug. 2015 - present
     i18n: und_date
   job:
-    detail: Graduate Research Assistant
+    detail: Ph.D. Candidate
     i18n: und_job
+  icon: fa-plus-square
+
+- name:
+    detail: Facebook
+    i18n: fb
+  desc:
+    detail: Worked in Network Insights team on backbone network demand forecast.
+    i18n: fb_desc
+  date:
+    detail: Jan. 2020 - Mar. 2020
+    i18n: fb_date
+  job:
+    detail: Software Engineer Intern
+    i18n: fb_job
   icon: fa-plus-square
 
 - name:
     detail: HERE Technologies
     i18n: here
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Worked in Data Accuracy & Reliability team on developing quality index model for HD map.
+    i18n: here_desc
   date:
-    detail: May. 2019 - Sep. 2019
-    i18n: company_a_date
+    detail: May. 2019 - Aug. 2019
+    i18n: here_date
   job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
-
-- name:
-    detail: University of Notre Dame
-    i18n: und
-  desc:
-    detail: + Assisted instructors in courses ranging from 40 - 120 students (Artificial Intelligence (CSE 40171) and Operating System Principles (CSE 30341)). | - Contributed to creating exams and assignment solutions, grading, and establishing office hours.
-    i18n: und_ta_desc
-  date:
-    detail: Aug. 2015 - May. 2016
-    i18n: und_ta_date
-  job:
-    detail: Teaching Assistant
-    i18n: und_ta_job
+    detail: Data Scientist Intern
+    i18n: here_job
   icon: fa-plus-square
 
 - name:
     detail: Zhejiang University
     i18n: zju
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Undergrad researcher on hardware security analysis.
+    i18n: zju_desc
   date:
-    detail: May. 2019 - Sep. 2019
-    i18n: company_a_date
+    detail: Mar. 2014 - May. 2015
+    i18n: zju_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Undergrad Researcher
+    i18n: zju_job
   icon: fa-plus-square
