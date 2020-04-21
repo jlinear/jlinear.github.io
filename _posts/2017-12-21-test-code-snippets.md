@@ -7,6 +7,7 @@ keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
 categories: [HTML]
 tags: [Jalpc,Jekyll]
 icon: icon-html
+visible: 0
 ---
 
 This is a raw snippet:
