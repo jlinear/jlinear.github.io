@@ -15,7 +15,7 @@
   repo: DispatchApp
   url: https://jlinear.com/BlueNet_Project/
   img: /static/assets/img/landing/bluenet_icon.png
-  desc: A Dynamic Wireless Ad-Hoc Networks Solution Using Bluetooth Low Energy.
+  desc: A Dynamic Wireless Ad-Hoc Networks Solution Using Bluetooth Low Energy (BLE).
 
 - name: ReMASC
   i18n: remasc
