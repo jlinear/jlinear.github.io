@@ -16,10 +16,10 @@
     "des": "我目前是美国圣母大学的一名博士生，研究方向包括机器学习，边缘计算，无线通信网络等。"
   },
   "skills":{
-    "my_skills": "我的技能"
+    "my_skills": "技能"
   },
   "projects":{
-    "my_projects": "我的项目",
+    "my_projects": "项目",
     "jalpc": "这是一个我自己的GitHub项目.",
     "cpython": "这是一个别人的GitHub项目.",
     "familycode": "这是另外一个项目."
@@ -30,13 +30,21 @@
     "und_desc": "博士在读",
     "und_date": "2015年8月 至今",
     "und_job": "博士生",
+    "fb":"Facebook",
+    "fb_desc": "Backbone网络流量分析及预测",
+    "fb_date": "2020年1月 - 2020年3月 ",
+    "fb_job": "软件工程师（实习）",
+    "here":"HERE Technologies",
+    "here_desc": "高精度地图质量指数建模",
+    "here_date": "2019年5月 - 2019年8月 ",
+    "here_job": "数据科学家（实习）",
     "zju": "浙江大学",
     "zju_desc": "参与侧信道攻击等相关研究",
     "zju_date": "2014年3月 - 2015年5月",
     "zju_job": "本科生研究助理"
   },
   "blog":{
-    "my_blog": "我的博客"
+    "my_blog": "博客"
   },
   "link":{
     "link": "友情链接",
