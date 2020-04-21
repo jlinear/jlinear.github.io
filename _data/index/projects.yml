@@ -1,21 +1,14 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-
-# - name: Jalpc
-#   i18n: jalpc
-#   gh_user: jarrekk
-#   repo: Jalpc
-#   img: /static/assets/img/landing/jekyll.png
-#   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
-
 - name: BlueNet
-  i18n: cpython
+  i18n: bluenet
   gh_user: jlinear
   repo: DispatchApp
   url: https://jlinear.com/BlueNet_Project/
   img: /static/assets/img/landing/bluenet_icon.png
   desc: A Dynamic Wireless Ad-Hoc Networks Solution Using Bluetooth Low Energy (BLE).
+
 
 - name: ReMASC
   i18n: remasc
