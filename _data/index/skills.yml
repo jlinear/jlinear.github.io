@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Java, HTML5, Machine Learing, Python, C/C++, Android Development
-percentage: 100, 35, 65, 80, 70, 90
+aspects: Python, SQL(Presto), Java, Matlab, C/C++
+percentage: 95, 80, 85, 90, 70
